@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\src\xercesc\util\ArrayIndexOutOfBoundsException.hpp" />
+    <None Include="..\..\src\xercesc\util\Base64.hpp" />
+    <None Include="..\..\src\xercesc\util\BaseRefVectorOf.hpp" />
+    <None Include="..\..\src\xercesc\util\BaseRefVectorOf.c" />
+    <None Include="..\..\src\xercesc\util\BinFileInputStream.hpp" />
+    <None Include="..\..\src\xercesc\util\BinInputStream.hpp" />
+    <None Include="..\..\src\xercesc\util\BinMemInputStream.hpp" />
+    <None Include="..\..\src\xercesc\util\BitOps.hpp" />
+    <None Include="..\..\src\xercesc\util\BitSet.hpp" />
+    <None Include="..\..\src\xercesc\util\CountedPointer.hpp" />
+    <None Include="..\..\src\xercesc\util\CountedPointer.c" />
+    <None Include="..\..\src\xercesc\util\DefaultPanicHandler.hpp" />
+    <None Include="..\..\src\xercesc\util\EmptyStackException.hpp" />
+    <None Include="..\..\src\xercesc\util\EncodingValidator.hpp" />
+    <None Include="..\..\src\xercesc\util\FlagJanitor.hpp" />
+    <None Include="..\..\src\xercesc\util\FlagJanitor.c" />
+    <None Include="..\..\src\xercesc\util\Hashers.hpp" />
+    <None Include="..\..\src\xercesc\util\Hash2KeysSetOf.hpp" />
+    <None Include="..\..\src\xercesc\util\Hash2KeysSetOf.c" />
+    <None Include="..\..\src\xercesc\util\HexBin.hpp" />
+    <None Include="..\..\src\xercesc\util\IllegalArgumentException.hpp" />
+    <None Include="..\..\src\xercesc\util\InvalidCastException.hpp" />
+    <None Include="..\..\src\xercesc\util\IOException.hpp" />
+    <None Include="..\..\src\xercesc\util\Janitor.hpp" />
+    <None Include="..\..\src\xercesc\util\Janitor.c" />
+    <None Include="..\..\src\xercesc\util\KeyRefPair.hpp" />
+    <None Include="..\..\src\xercesc\util\KeyRefPair.c" />
+    <None Include="..\..\src\xercesc\util\KeyValuePair.hpp" />
+    <None Include="..\..\src\xercesc\util\KeyValuePair.c" />
+    <None Include="..\..\src\xercesc\util\KVStringPair.hpp" />
+    <None Include="..\..\src\xercesc\util\Mutexes.hpp" />
+    <None Include="..\..\src\xercesc\util\LogicalPath.c" />
+    <None Include="..\..\src\xercesc\util\NameIdPool.hpp" />
+    <None Include="..\..\src\xercesc\util\NameIdPool.c" />
+    <None Include="..\..\src\xercesc\util\NoSuchElementException.hpp" />
+    <None Include="..\..\src\xercesc\util\NullPointerException.hpp" />
+    <None Include="..\..\src\xercesc\util\NumberFormatException.hpp" />
+    <None Include="..\..\src\xercesc\util\OutOfMemoryException.hpp" />
+    <None Include="..\..\src\xercesc\util\PanicHandler.hpp" />
+    <None Include="..\..\src\xercesc\util\ParseException.hpp" />
+    <None Include="..\..\src\xercesc\util\PlatformUtils.hpp" />
+    <None Include="..\..\src\xercesc\util\PSVIUni.hpp" />
+    <None Include="..\..\src\xercesc\util\QName.hpp" />
+    <None Include="..\..\src\xercesc\util\RefArrayOf.hpp" />
+    <None Include="..\..\src\xercesc\util\RefArrayOf.c" />
+    <None Include="..\..\src\xercesc\util\RefArrayVectorOf.hpp" />
+    <None Include="..\..\src\xercesc\util\RefArrayVectorOf.c" />
+    <None Include="..\..\src\xercesc\util\RefHash2KeysTableOf.hpp" />
+    <None Include="..\..\src\xercesc\util\RefHash2KeysTableOf.c" />
+    <None Include="..\..\src\xercesc\util\RefHash3KeysIdPool.hpp" />
+    <None Include="..\..\src\xercesc\util\RefHash3KeysIdPool.c" />
+    <None Include="..\..\src\xercesc\util\RefHashTableOf.hpp" />
+    <None Include="..\..\src\xercesc\util\RefHashTableOf.c" />
+    <None Include="..\..\src\xercesc\util\RefStackOf.hpp" />
+    <None Include="..\..\src\xercesc\util\RefStackOf.c" />
+    <None Include="..\..\src\xercesc\util\RefVectorOf.hpp" />
+    <None Include="..\..\src\xercesc\util\RefVectorOf.c" />
+    <None Include="..\..\src\xercesc\util\regx\ASCIIRangeFactory.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\BlockRangeFactory.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\BMPattern.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\CharToken.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\ClosureToken.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\ConcatToken.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\Match.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\Op.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\OpFactory.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\ParenToken.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\ParserForXMLSchema.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\RangeFactory.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\RangeToken.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\RangeTokenMap.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\RegularExpression.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\RegxDefs.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\RegxParser.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\RegxUtil.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\StringToken.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\Token.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\TokenFactory.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\TokenInc.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\UniCharTable.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\UnicodeRangeFactory.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\UnionToken.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\XMLRangeFactory.hpp" />
+    <None Include="..\..\src\xercesc\util\regx\XMLUniCharacter.hpp" />
+    <None Include="..\..\src\xercesc\util\RuntimeException.hpp" />
+    <None Include="..\..\src\xercesc\util\SchemaDateTimeException.hpp" />
+    <None Include="..\..\src\xercesc\util\SecurityManager.hpp" />
+    <None Include="..\..\src\xercesc\util\StringPool.hpp" />
+    <None Include="..\..\src\xercesc\util\SynchronizedStringPool.hpp" />
+    <None Include="..\..\src\xercesc\util\TranscodingException.hpp" />
+    <None Include="..\..\src\xercesc\util\TransENameMap.hpp" />
+    <None Include="..\..\src\xercesc\util\TransENameMap.c" />
+    <None Include="..\..\src\xercesc\util\TransService.hpp" />
+    <None Include="..\..\src\xercesc\util\UnexpectedEOFException.hpp" />
+    <None Include="..\..\src\xercesc\util\UnsupportedEncodingException.hpp" />
+    <None Include="..\..\src\xercesc\util\UTFDataFormatException.hpp" />
+    <None Include="..\..\src\xercesc\util\ValueArrayOf.hpp" />
+    <None Include="..\..\src\xercesc\util\ValueArrayOf.c" />
+    <None Include="..\..\src\xercesc\util\ValueHashTableOf.hpp" />
+    <None Include="..\..\src\xercesc\util\ValueHashTableOf.c" />
+    <None Include="..\..\src\xercesc\util\ValueStackOf.hpp" />
+    <None Include="..\..\src\xercesc\util\ValueStackOf.c" />
+    <None Include="..\..\src\xercesc\util\ValueVectorOf.hpp" />
+    <None Include="..\..\src\xercesc\util\ValueVectorOf.c" />
+    <None Include="..\..\src\xercesc\util\XercesDefs.hpp" />
+    <None Include="..\..\src\xercesc\util\XMemory.hpp" />
+    <None Include="..\..\src\xercesc\util\XML256TableTranscoder.hpp" />
+    <None Include="..\..\src\xercesc\util\XML88591Transcoder.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLAbstractDoubleFloat.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLASCIITranscoder.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLBigDecimal.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLBigInteger.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLChar.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLChTranscoder.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLDateTime.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLDOMMsg.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLDouble.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLEBCDICTranscoder.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLEntityResolver.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLEnumerator.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLException.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLExceptMsgs.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLFileMgr.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLFloat.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLIBM1047Transcoder.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLIBM1140Transcoder.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLInitializer.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLInteger.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLMutexMgr.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLMsgLoader.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLNetAccessor.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLNumber.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLResourceIdentifier.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLString.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLStringTokenizer.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLUCS4Transcoder.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLUni.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLUniDefs.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLUri.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLURL.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLUTF16Transcoder.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLUTF8Transcoder.hpp" />
+    <None Include="..\..\src\xercesc\util\XMLWin1252Transcoder.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOM.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMAttr.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMCDATASection.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMCharacterData.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMComment.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMConfiguration.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMDocument.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMDocumentFragment.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMDocumentRange.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMDocumentTraversal.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMDocumentType.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMElement.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMEntity.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMEntityReference.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMError.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMErrorHandler.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMException.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMImplementation.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMImplementationList.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMImplementationLS.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMImplementationRegistry.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMImplementationSource.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMLocator.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMLSException.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMLSInput.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMLSOutput.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMLSParser.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMLSParserFilter.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMLSResourceResolver.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMLSSerializer.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMLSSerializerFilter.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMMemoryManager.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMNamedNodeMap.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMNode.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMNodeFilter.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMNodeIterator.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMNodeList.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMNotation.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMProcessingInstruction.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMPSVITypeInfo.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMRange.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMRangeException.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMStringList.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMText.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMTreeWalker.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMTypeInfo.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMUserDataHandler.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMXPathEvaluator.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMXPathException.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMXPathExpression.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMXPathNamespace.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMXPathNSResolver.hpp" />
+    <None Include="..\..\src\xercesc\dom\DOMXPathResult.hpp" />
+    <None Include="..\..\src\xercesc\dom\StDOMNode.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMAttrImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMAttrMapImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMAttrNSImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMCasts.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMCDATASectionImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMCharacterDataImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMChildNode.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMCommentImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMConfigurationImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMDeepNodeListImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMDeepNodeListPool.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMDeepNodeListPool.c" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMDocumentFragmentImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMDocumentImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMDocumentTypeImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMElementImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMElementNSImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMEntityImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMEntityReferenceImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMErrorImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMImplementationImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMImplementationListImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMLocatorImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMNamedNodeMapImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMNodeBase.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMNodeIDMap.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMNodeImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMNodeIteratorImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMNodeListImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMNodeVector.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMNormalizer.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMNotationImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMParentNode.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMProcessingInstructionImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMRangeImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMStringListImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMStringPool.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMTextImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMTreeWalkerImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMTypeInfoImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMLSSerializerImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMLSInputImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMLSOutputImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMXPathExpressionImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMXPathNSResolverImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\DOMXPathResultImpl.hpp" />
+    <None Include="..\..\src\xercesc\dom\impl\XSDElementNSImpl.hpp" />
+    <None Include="..\..\src\xercesc\framework\BinOutputStream.hpp" />
+    <None Include="..\..\src\xercesc\framework\LocalFileFormatTarget.hpp" />
+    <None Include="..\..\src\xercesc\framework\LocalFileInputSource.hpp" />
+    <None Include="..\..\src\xercesc\framework\MemBufFormatTarget.hpp" />
+    <None Include="..\..\src\xercesc\framework\MemBufInputSource.hpp" />
+    <None Include="..\..\src\xercesc\framework\MemoryManager.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\PSVIAttribute.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\PSVIAttributeList.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\PSVIElement.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\PSVIHandler.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\PSVIItem.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSAnnotation.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSAttributeDeclaration.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSAttributeGroupDefinition.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSAttributeUse.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSComplexTypeDefinition.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSConstants.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSElementDeclaration.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSFacet.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSIDCDefinition.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSModel.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSModelGroup.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSModelGroupDefinition.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSMultiValueFacet.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSNamedMap.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSNamedMap.c" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSNamespaceItem.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSNotationDeclaration.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSObject.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSParticle.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSSimpleTypeDefinition.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSTypeDefinition.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSValue.hpp" />
+    <None Include="..\..\src\xercesc\framework\psvi\XSWildcard.hpp" />
+    <None Include="..\..\src\xercesc\framework\StdInInputSource.hpp" />
+    <None Include="..\..\src\xercesc\framework\StdOutFormatTarget.hpp" />
+    <None Include="..\..\src\xercesc\framework\URLInputSource.hpp" />
+    <None Include="..\..\src\xercesc\framework\ValidationContext.hpp" />
+    <None Include="..\..\src\xercesc\framework\Wrapper4DOMLSInput.hpp" />
+    <None Include="..\..\src\xercesc\framework\Wrapper4InputSource.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLAttDef.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLAttDefList.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLAttr.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLBuffer.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLBufferMgr.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLContentModel.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLDocumentHandler.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLDTDDescription.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLElementDecl.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLEntityDecl.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLEntityHandler.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLErrorCodes.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLErrorReporter.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLFormatter.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLGrammarDescription.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLGrammarPool.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLGrammarPoolImpl.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLNotationDecl.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLPScanToken.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLRecognizer.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLRefInfo.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLSchemaDescription.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLValidator.hpp" />
+    <None Include="..\..\src\xercesc\framework\XMLValidityCodes.hpp" />
+    <None Include="..\..\src\xercesc\internal\BinFileOutputStream.hpp" />
+    <None Include="..\..\src\xercesc\internal\BinMemOutputStream.hpp" />
+    <None Include="..\..\src\xercesc\internal\CharTypeTables.hpp" />
+    <None Include="..\..\src\xercesc\internal\DGXMLScanner.hpp" />
+    <None Include="..\..\src\xercesc\internal\ElemStack.hpp" />
+    <None Include="..\..\src\xercesc\internal\EndOfEntityException.hpp" />
+    <None Include="..\..\src\xercesc\internal\IANAEncodings.hpp" />
+    <None Include="..\..\src\xercesc\internal\IGXMLScanner.hpp" />
+    <None Include="..\..\src\xercesc\internal\MemoryManagerImpl.hpp" />
+    <None Include="..\..\src\xercesc\internal\ReaderMgr.hpp" />
+    <None Include="..\..\src\xercesc\internal\SGXMLScanner.hpp" />
+    <None Include="..\..\src\xercesc\internal\ValidationContextImpl.hpp" />
+    <None Include="..\..\src\xercesc\internal\VecAttributesImpl.hpp" />
+    <None Include="..\..\src\xercesc\internal\VecAttrListImpl.hpp" />
+    <None Include="..\..\src\xercesc\internal\WFXMLScanner.hpp" />
+    <None Include="..\..\src\xercesc\internal\XMLInternalErrorHandler.hpp" />
+    <None Include="..\..\src\xercesc\internal\XMLReader.hpp" />
+    <None Include="..\..\src\xercesc\internal\XMLScanner.hpp" />
+    <None Include="..\..\src\xercesc\internal\XMLScannerResolver.hpp" />
+    <None Include="..\..\src\xercesc\internal\XProtoType.hpp" />
+    <None Include="..\..\src\xercesc\internal\XSAXMLScanner.hpp" />
+    <None Include="..\..\src\xercesc\internal\XSerializable.hpp" />
+    <None Include="..\..\src\xercesc\internal\XSerializationException.hpp" />
+    <None Include="..\..\src\xercesc\internal\XSerializeEngine.hpp" />
+    <None Include="..\..\src\xercesc\internal\XSObjectFactory.hpp" />
+    <None Include="..\..\src\xercesc\internal\XTemplateSerializer.hpp" />
+    <None Include="..\..\src\xercesc\parsers\AbstractDOMParser.hpp" />
+    <None Include="..\..\src\xercesc\parsers\DOMLSParserImpl.hpp" />
+    <None Include="..\..\src\xercesc\parsers\SAX2XMLFilterImpl.hpp" />
+    <None Include="..\..\src\xercesc\parsers\SAX2XMLReaderImpl.hpp" />
+    <None Include="..\..\src\xercesc\parsers\SAXParser.hpp" />
+    <None Include="..\..\src\xercesc\parsers\XercesDOMParser.hpp" />
+    <None Include="..\..\src\xercesc\sax\AttributeList.hpp" />
+    <None Include="..\..\src\xercesc\sax\DocumentHandler.hpp" />
+    <None Include="..\..\src\xercesc\sax\DTDHandler.hpp" />
+    <None Include="..\..\src\xercesc\sax\EntityResolver.hpp" />
+    <None Include="..\..\src\xercesc\sax\ErrorHandler.hpp" />
+    <None Include="..\..\src\xercesc\sax\HandlerBase.hpp" />
+    <None Include="..\..\src\xercesc\sax\InputSource.hpp" />
+    <None Include="..\..\src\xercesc\sax\Locator.hpp" />
+    <None Include="..\..\src\xercesc\sax\Parser.hpp" />
+    <None Include="..\..\src\xercesc\sax\SAXException.hpp" />
+    <None Include="..\..\src\xercesc\sax\SAXParseException.hpp" />
+    <None Include="..\..\src\xercesc\sax2\Attributes.hpp" />
+    <None Include="..\..\src\xercesc\sax2\ContentHandler.hpp" />
+    <None Include="..\..\src\xercesc\sax2\DeclHandler.hpp" />
+    <None Include="..\..\src\xercesc\sax2\DefaultHandler.hpp" />
+    <None Include="..\..\src\xercesc\sax2\LexicalHandler.hpp" />
+    <None Include="..\..\src\xercesc\sax2\SAX2XMLFilter.hpp" />
+    <None Include="..\..\src\xercesc\sax2\SAX2XMLReader.hpp" />
+    <None Include="..\..\src\xercesc\sax2\XMLReaderFactory.hpp" />
+    <None Include="..\..\src\xercesc\validators\common\AllContentModel.hpp" />
+    <None Include="..\..\src\xercesc\validators\common\CMAny.hpp" />
+    <None Include="..\..\src\xercesc\validators\common\CMBinaryOp.hpp" />
+    <None Include="..\..\src\xercesc\validators\common\CMLeaf.hpp" />
+    <None Include="..\..\src\xercesc\validators\common\CMRepeatingLeaf.hpp" />
+    <None Include="..\..\src\xercesc\validators\common\CMNode.hpp" />
+    <None Include="..\..\src\xercesc\validators\common\CMStateSet.hpp" />
+    <None Include="..\..\src\xercesc\validators\common\CMUnaryOp.hpp" />
+    <None Include="..\..\src\xercesc\validators\common\ContentLeafNameTypeVector.hpp" />
+    <None Include="..\..\src\xercesc\validators\common\ContentSpecNode.hpp" />
+    <None Include="..\..\src\xercesc\validators\common\DFAContentModel.hpp" />
+    <None Include="..\..\src\xercesc\validators\common\Grammar.hpp" />
+    <None Include="..\..\src\xercesc\validators\common\GrammarResolver.hpp" />
+    <None Include="..\..\src\xercesc\validators\common\MixedContentModel.hpp" />
+    <None Include="..\..\src\xercesc\validators\common\SimpleContentModel.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\AbstractNumericFacetValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\AbstractNumericValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\AbstractStringValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\AnySimpleTypeDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\AnyURIDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\Base64BinaryDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\BooleanDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\DatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\DatatypeValidatorFactory.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\DateDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\DateTimeDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\DateTimeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\DayDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\DecimalDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\DoubleDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\DurationDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\ENTITYDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\FloatDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\HexBinaryDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\IDDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\IDREFDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\InvalidDatatypeFacetException.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\InvalidDatatypeValueException.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\ListDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\MonthDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\MonthDayDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\NameDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\NCNameDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\NOTATIONDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\QNameDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\StringDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\TimeDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\UnionDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\XMLCanRepGroup.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\YearDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\datatype\YearMonthDatatypeValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\DTD\DocTypeHandler.hpp" />
+    <None Include="..\..\src\xercesc\validators\DTD\DTDAttDef.hpp" />
+    <None Include="..\..\src\xercesc\validators\DTD\DTDAttDefList.hpp" />
+    <None Include="..\..\src\xercesc\validators\DTD\DTDElementDecl.hpp" />
+    <None Include="..\..\src\xercesc\validators\DTD\DTDEntityDecl.hpp" />
+    <None Include="..\..\src\xercesc\validators\DTD\DTDGrammar.hpp" />
+    <None Include="..\..\src\xercesc\validators\DTD\DTDScanner.hpp" />
+    <None Include="..\..\src\xercesc\validators\DTD\DTDValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\DTD\XMLDTDDescriptionImpl.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\ComplexTypeInfo.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\GeneralAttributeCheck.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\identity\FieldActivator.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\identity\FieldValueMap.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\identity\IC_Field.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\identity\IC_Key.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\identity\IC_KeyRef.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\identity\IC_Selector.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\identity\IC_Unique.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\identity\IdentityConstraint.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\identity\IdentityConstraintHandler.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\identity\ValueStore.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\identity\ValueStoreCache.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\identity\XercesXPath.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\identity\XPathException.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\identity\XPathMatcher.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\identity\XPathMatcherStack.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\identity\XPathSymbols.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\NamespaceScope.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\PSVIDefs.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\SchemaAttDef.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\SchemaAttDefList.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\SchemaElementDecl.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\SchemaGrammar.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\SchemaInfo.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\SchemaSymbols.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\SchemaValidator.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\SubstitutionGroupComparator.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\TraverseSchema.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\XercesAttGroupInfo.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\XercesElementWildcard.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\XercesGroupInfo.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\XMLSchemaDescriptionImpl.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\XSDDOMParser.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\XSDErrorReporter.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\XSDLocator.hpp" />
+    <None Include="..\..\src\xercesc\validators\schema\XUtil.hpp" />
+    <None Include="..\..\src\xercesc\xinclude\XIncludeDOMDocumentProcessor.hpp" />
+    <None Include="..\..\src\xercesc\xinclude\XIncludeLocation.hpp" />
+    <None Include="..\..\src\xercesc\xinclude\XIncludeUtils.hpp" />
+    <None Include="..\..\src\xercesc\util\NetAccessors\WinSock\WinSockNetAccessor.hpp" />
+    <None Include="..\..\src\xercesc\util\NetAccessors\WinSock\BinHTTPURLInputStream.hpp" />
+    <None Include="..\..\src\xercesc\util\NetAccessors\BinHTTPInputStreamCommon.hpp" />
+    <None Include="..\..\src\xercesc\util\Transcoders\Win32\Win32TransService.hpp" />
+    <None Include="..\..\src\xercesc\util\MsgLoaders\InMemory\InMemMsgLoader.hpp" />
+    <None Include="..\..\src\xercesc\util\MsgLoaders\InMemory\XercesMessages_en_US.hpp" />
+    <None Include="..\..\src\xercesc\util\MutexManagers\StdMutexMgr.hpp" />
+    <None Include="..\..\src\xercesc\util\FileManagers\WindowsFileMgr.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="xercesc">
+      <UniqueIdentifier>{028D0E1D-F5F0-3B0F-A19D-0DC1B3E0E032}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\dom">
+      <UniqueIdentifier>{1FB1786F-EA67-37F6-8E33-E2E41BFE6A18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\dom\impl">
+      <UniqueIdentifier>{9B38C50A-DFF7-3AAF-B4AF-3B38DCDFCE09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\framework">
+      <UniqueIdentifier>{7ED16695-3FE6-3743-9DA3-11C253BE5B31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\framework\psvi">
+      <UniqueIdentifier>{DA829DF4-EA63-3991-9E10-32BDB8823E89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\internal">
+      <UniqueIdentifier>{0F58C714-6188-36CC-A9FC-4E38FF7AE327}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\parsers">
+      <UniqueIdentifier>{41438076-9DEC-3FA9-9344-9145F90F9638}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\sax">
+      <UniqueIdentifier>{4D8ECC99-AD77-3646-9567-2578E2C8FFFA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\sax2">
+      <UniqueIdentifier>{320EBD76-F864-3871-AA47-2791DD59C1B7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\util">
+      <UniqueIdentifier>{673BAADC-856D-3439-8BB4-79924F53B0E5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\util\FileManagers">
+      <UniqueIdentifier>{DC251E2C-E88F-31E4-BE05-96CD6A1C3239}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\util\MsgLoaders">
+      <UniqueIdentifier>{F9D8DD15-6253-3038-88FA-BBB386B9DBBE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\util\MsgLoaders\InMemory">
+      <UniqueIdentifier>{423CED8D-35F8-34DA-B690-238DCE87D435}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\util\MutexManagers">
+      <UniqueIdentifier>{2B58CB7E-BC94-3BBE-97D8-0937FCB20BE7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\util\NetAccessors">
+      <UniqueIdentifier>{92AF8155-DF04-3890-93A9-34BBE9222D54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\util\NetAccessors\WinSock">
+      <UniqueIdentifier>{54D01188-0114-355C-87C5-D39CB18A0251}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\util\Transcoders">
+      <UniqueIdentifier>{52B69B46-F549-3F95-8775-F3259F9A3BFF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\util\Transcoders\Win32">
+      <UniqueIdentifier>{24FCE7DD-713C-333C-8621-28D39359DA20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\util\regx">
+      <UniqueIdentifier>{6AC7F60E-F71F-3172-A731-B4D229D700FC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\validators">
+      <UniqueIdentifier>{65F088A0-8E78-3839-B633-5EC8284B545A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\validators\DTD">
+      <UniqueIdentifier>{E2147FA3-DB7A-3F96-A111-66E0D1B7FE3B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\validators\common">
+      <UniqueIdentifier>{4EF33811-812C-3BDC-81CF-A6FFDFF20197}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\validators\datatype">
+      <UniqueIdentifier>{FFCEBCC2-2A04-3228-94E8-EFE6EE937FFA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\validators\schema">
+      <UniqueIdentifier>{623EDCFF-D1EC-3FD7-B52B-413EF218F9FB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\validators\schema\identity">
+      <UniqueIdentifier>{07CF78B0-9E40-3517-BFEF-85EDFF1B55B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="xercesc\xinclude">
+      <UniqueIdentifier>{82D1104B-21C0-3E35-A2A4-169C0EEDFC2D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

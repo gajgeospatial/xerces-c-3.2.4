@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\apidocs.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\applications.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\bug-report.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\build.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\charter.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\createdoc.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\domcount.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\domprint.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\download.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\enumval.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\faq-build.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\faq-contributing.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\faq-distrib.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\faq-other.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\faq-parse.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\feedback.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\install.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\mailing-lists.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\memparse.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\migration.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\migration_archive.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\pparse.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\program-dom.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\program-others.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\program-sax.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\program-sax2.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\program.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\psviwriter.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\readme.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\redirect.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\releases.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\releases_archive.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\releases_plan.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\samples.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\sax2count.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\sax2print.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\saxcount.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\saxprint.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\schema.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\scmprint.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\secadv.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\senumval.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\source-repository.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\stdinparse.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\xerces-c_book.xml" />
+    <XML Include="N:\Development\Dev_Base\xerces-c-3.2.4\doc\xinclude.xml" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

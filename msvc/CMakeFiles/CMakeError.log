@@ -1,0 +1,697 @@
+Determining if the include file arpa/inet.h exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_c9ca6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.cxx
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_c9ca6.dir\Debug\\" /Fd"cmTC_c9ca6.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1,10): fatal error C1083: Cannot open include file: 'arpa/inet.h': No such file or directory [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_c9ca6.vcxproj]
+
+
+
+Determining if the include file dlfcn.h exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_9f203.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.cxx
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_9f203.dir\Debug\\" /Fd"cmTC_9f203.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1,10): fatal error C1083: Cannot open include file: 'dlfcn.h': No such file or directory [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_9f203.vcxproj]
+
+
+
+Determining if the include file langinfo.h exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_396e1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.cxx
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_396e1.dir\Debug\\" /Fd"cmTC_396e1.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1,10): fatal error C1083: Cannot open include file: 'langinfo.h': No such file or directory [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_396e1.vcxproj]
+
+
+
+Determining if the include file netdb.h exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_58df3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.cxx
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_58df3.dir\Debug\\" /Fd"cmTC_58df3.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1,10): fatal error C1083: Cannot open include file: 'netdb.h': No such file or directory [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_58df3.vcxproj]
+
+
+
+Determining if the include file netinet/in.h exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_b3faa.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.cxx
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_b3faa.dir\Debug\\" /Fd"cmTC_b3faa.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1,10): fatal error C1083: Cannot open include file: 'netinet/in.h': No such file or directory [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_b3faa.vcxproj]
+
+
+
+Determining if the include file nl_types.h exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_3a41e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.cxx
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_3a41e.dir\Debug\\" /Fd"cmTC_3a41e.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1,10): fatal error C1083: Cannot open include file: 'nl_types.h': No such file or directory [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_3a41e.vcxproj]
+
+
+
+Determining if the include file strings.h exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_f7478.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.cxx
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_f7478.dir\Debug\\" /Fd"cmTC_f7478.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1,10): fatal error C1083: Cannot open include file: 'strings.h': No such file or directory [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_f7478.vcxproj]
+
+
+
+Determining if the include file sys/param.h exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_be502.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.cxx
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_be502.dir\Debug\\" /Fd"cmTC_be502.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1,10): fatal error C1083: Cannot open include file: 'sys/param.h': No such file or directory [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_be502.vcxproj]
+
+
+
+Determining if the include file sys/socket.h exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_168b1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.cxx
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_168b1.dir\Debug\\" /Fd"cmTC_168b1.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1,10): fatal error C1083: Cannot open include file: 'sys/socket.h': No such file or directory [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_168b1.vcxproj]
+
+
+
+Determining if the include file sys/time.h exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_ea019.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.cxx
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_ea019.dir\Debug\\" /Fd"cmTC_ea019.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1,10): fatal error C1083: Cannot open include file: 'sys/time.h': No such file or directory [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_ea019.vcxproj]
+
+
+
+Determining if the include file unistd.h exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_81f4f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.cxx
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_81f4f.dir\Debug\\" /Fd"cmTC_81f4f.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1,10): fatal error C1083: Cannot open include file: 'unistd.h': No such file or directory [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_81f4f.vcxproj]
+
+
+
+Determining if the include file endian.h exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_cf428.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.cxx
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_cf428.dir\Debug\\" /Fd"cmTC_cf428.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1,10): fatal error C1083: Cannot open include file: 'endian.h': No such file or directory [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_cf428.vcxproj]
+
+
+
+Determining if the include file machine/endian.h exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_e8370.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.cxx
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_e8370.dir\Debug\\" /Fd"cmTC_e8370.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1,10): fatal error C1083: Cannot open include file: 'machine/endian.h': No such file or directory [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_e8370.vcxproj]
+
+
+
+Determining if the include file arpa/nameser_compat.h exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_4e339.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.cxx
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_4e339.dir\Debug\\" /Fd"cmTC_4e339.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1,10): fatal error C1083: Cannot open include file: 'arpa/nameser_compat.h': No such file or directory [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_4e339.vcxproj]
+
+
+
+Determining if the function pathconf exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_b21ed.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pathconf /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b21ed.dir\Debug\\" /Fd"cmTC_b21ed.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol pathconf referenced in function main [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_b21ed.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_b21ed.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_b21ed.vcxproj]
+
+
+
+Determining if the function realpath exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_327aa.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=realpath /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_327aa.dir\Debug\\" /Fd"cmTC_327aa.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol realpath referenced in function main [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_327aa.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_327aa.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_327aa.vcxproj]
+
+
+
+Determining if the function getaddrinfo exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_8efb8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=getaddrinfo /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8efb8.dir\Debug\\" /Fd"cmTC_8efb8.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol getaddrinfo referenced in function main [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_8efb8.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_8efb8.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_8efb8.vcxproj]
+
+
+
+Determining if the function gethostbyaddr exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_8e0f6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=gethostbyaddr /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8e0f6.dir\Debug\\" /Fd"cmTC_8e0f6.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol gethostbyaddr referenced in function main [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_8e0f6.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_8e0f6.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_8e0f6.vcxproj]
+
+
+
+Determining if the function gethostbyname exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_9bc2c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=gethostbyname /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_9bc2c.dir\Debug\\" /Fd"cmTC_9bc2c.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol gethostbyname referenced in function main [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_9bc2c.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_9bc2c.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_9bc2c.vcxproj]
+
+
+
+Determining if the function socket exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_a55ba.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=socket /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a55ba.dir\Debug\\" /Fd"cmTC_a55ba.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol socket referenced in function main [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_a55ba.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_a55ba.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_a55ba.vcxproj]
+
+
+
+Determining if the function clock_gettime exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_2a56c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=clock_gettime /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2a56c.dir\Debug\\" /Fd"cmTC_2a56c.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol clock_gettime referenced in function main [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_2a56c.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_2a56c.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_2a56c.vcxproj]
+
+
+
+Determining if the function gettimeofday exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_5517d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=gettimeofday /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5517d.dir\Debug\\" /Fd"cmTC_5517d.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol gettimeofday referenced in function main [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_5517d.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_5517d.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_5517d.vcxproj]
+
+
+
+Determining if the function gmtime_r exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_504fc.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=gmtime_r /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_504fc.dir\Debug\\" /Fd"cmTC_504fc.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol gmtime_r referenced in function main [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_504fc.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_504fc.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_504fc.vcxproj]
+
+
+
+Determining if the function nl_langinfo exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_4c8fe.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=nl_langinfo /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_4c8fe.dir\Debug\\" /Fd"cmTC_4c8fe.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol nl_langinfo referenced in function main [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_4c8fe.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_4c8fe.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_4c8fe.vcxproj]
+
+
+
+Determining if the function snprintf exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_38099.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=snprintf /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_38099.dir\Debug\\" /Fd"cmTC_38099.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol snprintf referenced in function main [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_38099.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_38099.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_38099.vcxproj]
+
+
+
+Determining if the function strcasecmp exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_880b7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strcasecmp /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_880b7.dir\Debug\\" /Fd"cmTC_880b7.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol strcasecmp referenced in function main [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_880b7.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_880b7.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_880b7.vcxproj]
+
+
+
+Determining if the function strncasecmp exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_2ccd8.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strncasecmp /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2ccd8.dir\Debug\\" /Fd"cmTC_2ccd8.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol strncasecmp referenced in function main [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_2ccd8.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_2ccd8.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_2ccd8.vcxproj]
+
+
+
+Determining if the function timegm exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_c723c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=timegm /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c723c.dir\Debug\\" /Fd"cmTC_c723c.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol timegm referenced in function main [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_c723c.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_c723c.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_c723c.vcxproj]
+
+
+
+Determining size of ssize_t failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_c1f04.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  SIZEOF_SSIZE_T.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c1f04.dir\Debug\\" /Fd"cmTC_c1f04.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CheckTypeSize\SIZEOF_SSIZE_T.c"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CheckTypeSize\SIZEOF_SSIZE_T.c(30,12): error C2065: 'ssize_t': undeclared identifier [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_c1f04.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CheckTypeSize\SIZEOF_SSIZE_T.c(31,12): error C2065: 'ssize_t': undeclared identifier [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_c1f04.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CheckTypeSize\SIZEOF_SSIZE_T.c(32,12): error C2065: 'ssize_t': undeclared identifier [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_c1f04.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CheckTypeSize\SIZEOF_SSIZE_T.c(33,12): error C2065: 'ssize_t': undeclared identifier [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_c1f04.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CheckTypeSize\SIZEOF_SSIZE_T.c(34,12): error C2065: 'ssize_t': undeclared identifier [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_c1f04.vcxproj]
+
+
+N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CheckTypeSize/SIZEOF_SSIZE_T.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+#include "stddef.h"
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(ssize_t))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_59d12.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_59d12.dir\Debug\\" /Fd"cmTC_59d12.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1,10): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_59d12.vcxproj]
+
+
+
+Determining if the include file nl_types.h exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_1efa2.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.cxx
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_1efa2.dir\Debug\\" /Fd"cmTC_1efa2.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1,10): fatal error C1083: Cannot open include file: 'nl_types.h': No such file or directory [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_1efa2.vcxproj]
+
+
+
+Determining if the function catopen exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_3b797.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=catopen /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3b797.dir\Debug\\" /Fd"cmTC_3b797.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol catopen referenced in function main [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_3b797.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_3b797.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_3b797.vcxproj]
+
+
+
+Determining if the function catclose exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_6e473.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=catclose /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_6e473.dir\Debug\\" /Fd"cmTC_6e473.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol catclose referenced in function main [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_6e473.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_6e473.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_6e473.vcxproj]
+
+
+
+Determining if the function catgets exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_f9726.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=catgets /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f9726.dir\Debug\\" /Fd"cmTC_f9726.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol catgets referenced in function main [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_f9726.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_f9726.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_f9726.vcxproj]
+
+
+
+Determining if the include file iconv.h exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_93428.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckIncludeFile.cxx
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_93428.dir\Debug\\" /Fd"cmTC_93428.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1,10): fatal error C1083: Cannot open include file: 'iconv.h': No such file or directory [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_93428.vcxproj]
+
+
+
+Determining if the function iconv_open exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_e11f3.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=iconv_open /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e11f3.dir\Debug\\" /Fd"cmTC_e11f3.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol iconv_open referenced in function main [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_e11f3.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_e11f3.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_e11f3.vcxproj]
+
+
+
+Determining if the function iconv_close exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_59568.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=iconv_close /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_59568.dir\Debug\\" /Fd"cmTC_59568.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol iconv_close referenced in function main [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_59568.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_59568.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_59568.vcxproj]
+
+
+
+Determining if the function iconv exists failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_bfc68.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  CheckFunctionExists.c
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=iconv /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_bfc68.dir\Debug\\" /Fd"cmTC_bfc68.dir\Debug\vc142.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\Program Files\CMake\share\cmake-3.20\Modules\CheckFunctionExists.c"
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol iconv referenced in function main [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_bfc68.vcxproj]
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\Debug\cmTC_bfc68.exe : fatal error LNK1120: 1 unresolved externals [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_bfc68.vcxproj]
+
+
+
+Performing C++ SOURCE FILE Test HAVE_CPUID_H failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_0181b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  src.cxx
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D HAVE_CPUID_H /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_0181b.dir\Debug\\" /Fd"cmTC_0181b.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\src.cxx"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\src.cxx(2,10): fatal error C1083: Cannot open include file: 'cpuid.h': No such file or directory [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_0181b.vcxproj]
+
+
+Source file was:
+
+#include <cpuid.h>
+
+int main() {
+  return 0;
+}
+Performing C++ SOURCE FILE Test XERCES_HAVE_GETCPUID failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_90ee7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  src.cxx
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D XERCES_HAVE_GETCPUID /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_90ee7.dir\Debug\\" /Fd"cmTC_90ee7.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\src.cxx"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\src.cxx(2,10): fatal error C1083: Cannot open include file: 'cpuid.h': No such file or directory [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_90ee7.vcxproj]
+
+
+Source file was:
+
+#include <cpuid.h>
+
+int main() {
+  unsigned int eax, ebx, ecx, edx;
+  __get_cpuid (1, &eax, &ebx, &ecx, &edx);
+  return 0;
+}
+Performing C++ SOURCE FILE Test HAVE_PATH_MAX failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_67ab0.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  src.cxx
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D HAVE_PATH_MAX /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_67ab0.dir\Debug\\" /Fd"cmTC_67ab0.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\src.cxx"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\src.cxx(4,14): error C2065: 'PATH_MAX': undeclared identifier [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_67ab0.vcxproj]
+
+
+Source file was:
+
+#include <limits.h>
+int main(void) {
+  char dummy[PATH_MAX];
+  return 0;
+}
+Performing C++ SOURCE FILE Test ICONV_USES_CONST_POINTER failed with the following output:
+Change Dir: N:/Development/Dev_Base/xerces-c-3.2.4/msvc/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/MSBuild/Current/Bin/MSBuild.exe cmTC_23b1c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=16.0 /v:m && Microsoft (R) Build Engine version 16.11.2+f32259642 for .NET Framework
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.29.30138 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  src.cxx
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D WIN32 /D _WINDOWS /D ICONV_USES_CONST_POINTER /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /std:c++14 /Fo"cmTC_23b1c.dir\Debug\\" /Fd"cmTC_23b1c.dir\Debug\vc142.pdb" /external:W3 /Gd /TP /errorReport:queue "N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\src.cxx"
+N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\src.cxx(2,10): fatal error C1083: Cannot open include file: 'iconv.h': No such file or directory [N:\Development\Dev_Base\xerces-c-3.2.4\msvc\CMakeFiles\CMakeTmp\cmTC_23b1c.vcxproj]
+
+
+Source file was:
+
+#include <iconv.h>
+
+int main(void) {
+  const char *fromPtr=0;
+  size_t     fromLen=0;
+  char       *toPtr=0;
+  size_t     toLen=0;
+  iconv_t    cv=0;
+  iconv(cv, &fromPtr, &fromLen, &toPtr, &toLen);
+  return 0;
+}

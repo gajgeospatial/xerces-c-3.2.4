@@ -1,0 +1,57 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{E148D8DD-C5BD-32C2-A144-ECA9AD1BA40B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xerces-c", "src\xerces-c.vcxproj", "{A136DA92-4AAE-3716-93BC-0D1AB72CB50C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xerces-c-headers", "src\xerces-c-headers.vcxproj", "{F9124DFD-17ED-3ADC-A062-AFAC6EEB1604}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xerces-c-missing", "src\xerces-c-missing.vcxproj", "{5B64E6F6-3EEB-3B77-B90E-01BFDB5A84A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		vs2019_Debug|x64 = vs2019_Debug|x64
+		vs2019_Release|x64 = vs2019_Release|x64
+		vs2022_Debug|x64 = vs2022_Debug|x64
+		vs2022_Release|x64 = vs2022_Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A136DA92-4AAE-3716-93BC-0D1AB72CB50C}.vs2019_Debug|x64.ActiveCfg = vs2019_Debug|x64
+		{A136DA92-4AAE-3716-93BC-0D1AB72CB50C}.vs2019_Debug|x64.Build.0 = vs2019_Debug|x64
+		{A136DA92-4AAE-3716-93BC-0D1AB72CB50C}.vs2019_Release|x64.ActiveCfg = vs2019_Release|x64
+		{A136DA92-4AAE-3716-93BC-0D1AB72CB50C}.vs2019_Release|x64.Build.0 = vs2019_Release|x64
+		{A136DA92-4AAE-3716-93BC-0D1AB72CB50C}.vs2022_Debug|x64.ActiveCfg = vs2022_Debug|x64
+		{A136DA92-4AAE-3716-93BC-0D1AB72CB50C}.vs2022_Debug|x64.Build.0 = vs2022_Debug|x64
+		{A136DA92-4AAE-3716-93BC-0D1AB72CB50C}.vs2022_Release|x64.ActiveCfg = vs2022_Release|x64
+		{A136DA92-4AAE-3716-93BC-0D1AB72CB50C}.vs2022_Release|x64.Build.0 = vs2022_Release|x64
+		{F9124DFD-17ED-3ADC-A062-AFAC6EEB1604}.vs2019_Debug|x64.ActiveCfg = vs2019_Debug|x64
+		{F9124DFD-17ED-3ADC-A062-AFAC6EEB1604}.vs2019_Debug|x64.Build.0 = vs2019_Debug|x64
+		{F9124DFD-17ED-3ADC-A062-AFAC6EEB1604}.vs2019_Release|x64.ActiveCfg = vs2019_Release|x64
+		{F9124DFD-17ED-3ADC-A062-AFAC6EEB1604}.vs2019_Release|x64.Build.0 = vs2019_Release|x64
+		{F9124DFD-17ED-3ADC-A062-AFAC6EEB1604}.vs2022_Debug|x64.ActiveCfg = vs2022_Debug|x64
+		{F9124DFD-17ED-3ADC-A062-AFAC6EEB1604}.vs2022_Debug|x64.Build.0 = vs2022_Debug|x64
+		{F9124DFD-17ED-3ADC-A062-AFAC6EEB1604}.vs2022_Release|x64.ActiveCfg = vs2022_Release|x64
+		{F9124DFD-17ED-3ADC-A062-AFAC6EEB1604}.vs2022_Release|x64.Build.0 = vs2022_Release|x64
+		{5B64E6F6-3EEB-3B77-B90E-01BFDB5A84A3}.vs2019_Debug|x64.ActiveCfg = vs2019_Debug|x64
+		{5B64E6F6-3EEB-3B77-B90E-01BFDB5A84A3}.vs2019_Debug|x64.Build.0 = vs2019_Debug|x64
+		{5B64E6F6-3EEB-3B77-B90E-01BFDB5A84A3}.vs2019_Release|x64.ActiveCfg = vs2019_Release|x64
+		{5B64E6F6-3EEB-3B77-B90E-01BFDB5A84A3}.vs2019_Release|x64.Build.0 = vs2019_Release|x64
+		{5B64E6F6-3EEB-3B77-B90E-01BFDB5A84A3}.vs2022_Debug|x64.ActiveCfg = vs2022_Debug|x64
+		{5B64E6F6-3EEB-3B77-B90E-01BFDB5A84A3}.vs2022_Debug|x64.Build.0 = vs2022_Debug|x64
+		{5B64E6F6-3EEB-3B77-B90E-01BFDB5A84A3}.vs2022_Release|x64.ActiveCfg = vs2022_Release|x64
+		{5B64E6F6-3EEB-3B77-B90E-01BFDB5A84A3}.vs2022_Release|x64.Build.0 = vs2022_Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A136DA92-4AAE-3716-93BC-0D1AB72CB50C} = {E148D8DD-C5BD-32C2-A144-ECA9AD1BA40B}
+		{F9124DFD-17ED-3ADC-A062-AFAC6EEB1604} = {E148D8DD-C5BD-32C2-A144-ECA9AD1BA40B}
+		{5B64E6F6-3EEB-3B77-B90E-01BFDB5A84A3} = {E148D8DD-C5BD-32C2-A144-ECA9AD1BA40B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22531378-1D25-3BA0-A077-E7EAE41BE413}
+	EndGlobalSection
+EndGlobal
